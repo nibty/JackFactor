@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="jackFactor">Jack Factors</string><string name="algorithmLabel">Prime Factor Algorithm:</string>
+    <string name="enterNumber">Enter a number</string>
+    
+    <string name="okButton">"OK"</string>
+    <string name="randomButton">Random</string>
+    <string name="clearButton">Clear</string>
+    
+    <string name="numberLabel">Number:</string>
+    <string name="factorsLabel">Factors:</string>
+    <string name="multiplesLabel">Closest Multipliers:</string>
+    <string name="differenceLabel">Difference:</string>
+    <string name="timeLabel">Run time:</string>
+    
+</resources>
